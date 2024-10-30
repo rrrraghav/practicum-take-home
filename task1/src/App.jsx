@@ -1,15 +1,14 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import BookCard from './Book'
+import SongCard from './Song'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <BookCard />
+      <SongCard imagePath='album_cover.svg' title="You Belong With Me"/>
     </>
   )
 }

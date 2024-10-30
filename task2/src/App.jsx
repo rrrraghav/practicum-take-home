@@ -2,14 +2,14 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import MovieCard from './Movies'
+import CourseCard from './Course'
+import data from './data.ts'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-     <MovieCard />
+     <CourseCard name={data[0]["course-name"]}/>
     </>
   )
 }
