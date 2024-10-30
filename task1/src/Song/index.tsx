@@ -1,4 +1,5 @@
-import React from "react"
+import React from "react";
+import './index.css';
 
 interface SongProps {
     imagePath: string
@@ -7,12 +8,11 @@ interface SongProps {
 
 const SongCard: React.FC<SongProps>  = ({imagePath, title}) => {
 
-
     return (
-        <div>
+        <div className="cardWrapper">
             <text>{title}</text>
             <img src={imagePath} alt="Cover Not Found"  style={{ width: "150px", height: "150px", objectFit: "cover" }} />
-            <button >Select</button>
+            <button className="buttonPrimary">Select</button>
         </div>
     )
 } 
