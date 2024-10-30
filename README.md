@@ -19,3 +19,6 @@ There is a README within each of the folders in this directory. They have direct
 
 ## Submitting
 Before your interview, please make sure to commit and push your solutions!
+
+## General Advice
+Your interview can be very successful with imperfect solutions to the provided problems. Do your best, and come in to your interview with ideas on how to improve your code (and ours as well)!
