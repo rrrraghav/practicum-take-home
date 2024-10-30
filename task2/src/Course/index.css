@@ -1,0 +1,21 @@
+.courseItem {
+    width: 500px;
+    background-color: #EAEAEA;
+    color: #000000;
+    padding: 20px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    display: flex;
+}
+
+.courseTitle {
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    margin-right: auto;
+}
+
+.courseSelect {
+    margin-left: auto;
+}
