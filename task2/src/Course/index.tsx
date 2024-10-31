@@ -7,10 +7,12 @@ interface CourseProps {
 
 const CourseCard: React.FC<CourseProps> = ({ name }) => {
     return (
-        <div className="courseItem">
-            <div className="courseTitle">{name}</div>
-            <div className="courseSelect">
-                <button className="buttonPrimary">Select</button>
+        <div className="courseWrapper">
+            <div className="courseItem">
+                <div className="courseTitle">{name}</div>
+                <div className="courseSelect">
+                    <button className="buttonPrimary">Select</button>
+                </div>
             </div>
         </div>
     )

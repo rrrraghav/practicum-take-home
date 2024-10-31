@@ -1,9 +1,11 @@
 # Task 2
-We are designing a new course selection service. Right now we are displaying a single card. You are tasked with adding two key peices of functionality, as shown on the Figma board.
+You are designing a new course selection service. Right now we are displaying a single card with the name of the course and a button to select it. You have been tasked with adding two key pieces of functionality (please refer to the Figma board for a visual example):
 
-**Support Multiple Courses:** Render all of the provided courses as shown in the figma, rather than just the first
+**1. Support Multiple Courses:** Render all of the provided courses as shown in the figma, rather than just the first
 
-**Selection:** Users should be able to select a course by clicking the "Select" button. This should make the selected course have a highlighted border! Clicking the button again should un-highlight it. Multiple courses may be highlighted at once
+**2. Selection:** Users should be able to select a course by clicking the "Select" button. This should add a border of any color around the selected element to highlight it! 
+
+**Extra Credit:** Additionally, modify your code so that clicking the button again should un-highlight the border around a selected element. Multiple courses may be highlighted at once.
 
 ## Running the app
 First, confirm you have installed the latest version of node.
