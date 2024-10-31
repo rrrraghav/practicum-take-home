@@ -6,6 +6,7 @@ function App() {
 
   return (
     <>
+    <div>Select A Course:</div>
      <CourseCard name={data[0]["course-name"]}/>
     </>
   )

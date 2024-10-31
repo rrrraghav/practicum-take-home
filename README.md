@@ -11,7 +11,7 @@ There is no time limit on this challenge, but it is designed to take anywhere be
 Before starting this challenge, ensure you have installed **nodeJS** and **python**.
 
 ## Figma
-This challenge will ask you to reference wireframes that can be found in the following Figma board:
+This challenge will ask you to reference wireframes that can be found in [this Figma board](https://www.figma.com/design/1GfVyS6MgGZxWB64KSPRag/Untitled?node-id=0-1&t=0epGWkgxWP20bc2g-1)
 
 ## Tasks
 There is a README within each of the folders in this directory. They have directions on how to complete small applications within each of these directories. Here is a table of contents for these guides.
@@ -22,4 +22,7 @@ There is a README within each of the folders in this directory. They have direct
 
 
 ## Submitting
-Before your interview, please make sure to commit and push your solutions!
+In order to submit, please commit your changes and email a link to your fork to Dr. Fontenot: m.fontenot@northeastern.edu. Please create a commit for your submission of **each** task
+
+## General Advice
+Your take home can be very successful with imperfect solutions to the provided problems. Do your best, and come in to any interviews with ideas on how to improve your code (and ours as well)!
