@@ -5,11 +5,6 @@
   padding: 70px;
 }
 
-body {
-  min-width: 320px;
-  min-height: 100vh;
-}
-
 .content {
   width: 100%;
 }
