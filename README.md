@@ -1,10 +1,14 @@
-# Khoury Industry Partner Co-op: Software Development Takehome
-This takehome is designed to assess your skills as a full stack software developer. This take home will expect knowledge of technologies you are unlikely to have learned in your courses. Feel free to take advantage of whatever resources you usually use to develop. That being said, you should be prepared to discuss all of the changes you made, and the thought process behind them during your interview.
+# Khoury Practicum Frontend Assessment
+This take-home is designed to assess your skills as a frontend and web developer. This assessment expects you to have a basic knowledge of technologies like React, JavaScript and HTML/CSS, but is designed to be begineer friendly! Feel free to take advantage of any online resources you usually use to develop. 
 
-There is no time limit on this challenge, but it is designed to take between 60 and 90 minutes.
+Please keep in mind that while this is a take-home assessment, you should be prepared to discuss all of the changes you made, and the thought process behind them during your interview.
+
+There is no time limit on this challenge, but it is designed to take anywhere between 60 and 90 minutes.
+
+**Make sure you read all the README file to avoid any setup errors!**
 
 ## Development Environment Prerequisites
-Before starting this challenge, ensure you have installed nodeJS and python.
+Before starting this challenge, ensure you have installed **nodeJS** and **python**.
 
 ## Figma
 This challenge will ask you to reference wireframes that can be found in the following Figma board:

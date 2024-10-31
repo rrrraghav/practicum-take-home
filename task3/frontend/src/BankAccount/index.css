@@ -1,0 +1,30 @@
+.accountName {
+    font-size: 26px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.accountDetailsWrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    width: 100%;
+}
+
+.bankCard {
+    background-color: #FFFFFF;
+    padding: 40px;
+    color: #000000;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.cardTitle {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.cardAmount {
+    font-size: 16px;
+}
