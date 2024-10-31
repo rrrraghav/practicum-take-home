@@ -7,7 +7,7 @@ There is no time limit on this challenge, but it is designed to take between 60 
 Before starting this challenge, ensure you have installed the latest versions of nodeJS and python.
 
 ## Figma
-This challenge will ask you to reference wireframes that can be found in the following Figma board: TODO link board
+This challenge will ask you to reference wireframes that can be found in [this Figma board](https://www.figma.com/design/1GfVyS6MgGZxWB64KSPRag/Untitled?node-id=0-1&t=0epGWkgxWP20bc2g-1)
 
 ## Tasks
 There is a README within each of the folders in this directory. They have directions on how to complete small applications within each of these directories. Here is a table of contents for these guides.
