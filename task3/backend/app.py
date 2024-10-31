@@ -3,7 +3,7 @@ from flask import Flask, jsonify
 app = Flask(__name__)
 
 @app.route('/account', methods=['GET'])
-def grocery_list():
+def bank_account():
     bank_account = {
         "name": "Dr. Nilex Tietgione",
         "balance": 35000,

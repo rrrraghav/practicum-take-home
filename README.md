@@ -1,13 +1,13 @@
 # Khoury Industry Partner Co-op: Software Development Takehome
-This takehome is designed to assess your skills as a full stack software developer. This take home will expect knowledge of technologies you are unlikely to have learned in your courses. Feel free to take advantage of whatever resources you usually use to develop. That being said, you should be prepared to discuss all of the changes you made, and the thought process behind them during your interview.
+This takehome is designed to assess your skills as a full stack software developer. This take home will expect knowledge of technologies you are unlikely to have learned in your courses. Feel free to take advantage of whatever resources you usually use to develop. That being said, you should be prepared to discuss all of the changes you made, and the thought process behind them during an interview.
 
 There is no time limit on this challenge, but it is designed to take between 60 and 90 minutes.
 
 ## Development Environment Prerequisites
-Before starting this challenge, ensure you have installed nodeJS and python.
+Before starting this challenge, ensure you have installed the latest versions of nodeJS and python.
 
 ## Figma
-This challenge will ask you to reference wireframes that can be found in the following Figma board:
+This challenge will ask you to reference wireframes that can be found in the following Figma board: TODO link board
 
 ## Tasks
 There is a README within each of the folders in this directory. They have directions on how to complete small applications within each of these directories. Here is a table of contents for these guides.
@@ -18,7 +18,7 @@ There is a README within each of the folders in this directory. They have direct
 
 
 ## Submitting
-Before your interview, please make sure to commit and push your solutions!
+In order to submit, please commit your changes and email a link to your fork to Dr. Fontenot: m.fontenot@northeastern.edu. Please create a commit for your submission of **each** task
 
 ## General Advice
-Your interview can be very successful with imperfect solutions to the provided problems. Do your best, and come in to your interview with ideas on how to improve your code (and ours as well)!
+Your take home can be very successful with imperfect solutions to the provided problems. Do your best, and come in to any interviews with ideas on how to improve your code (and ours as well)!

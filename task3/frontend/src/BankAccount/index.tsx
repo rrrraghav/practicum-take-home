@@ -5,7 +5,7 @@ import './index.css'
 
 const BankAccount: React.FC = () => {
 
-    const items = data
+    const items = data // 
     
 return (
    <div className="account">
