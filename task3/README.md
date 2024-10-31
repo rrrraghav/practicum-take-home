@@ -12,6 +12,7 @@ Run the following commands to run the backend.
 ```
 cd backend
 pip install flask
+pip install flask-cors
 python app.py
 ```
 
