@@ -1,12 +1,11 @@
-import SongCard from './Song'
-import './App.css'
+import SongCard from './SongCard'
 
 function App() {
 
   return (
-    <>
-      <SongCard imagePath='album_cover.svg' title="You Belong With Me"/>
-    </>
+    <div className="content">
+      <SongCard imagePath='album_cover.png' title="You Belong With Me"/>
+    </div>
   )
 }
 
