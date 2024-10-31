@@ -1,5 +1,5 @@
 # Task 2
-We are designing a new course selection service. Right now we are displaying a single card. You are tasked with adding two key peices of functionality, as shown on the Figma board:
+We are designing a new course selection service. Right now we are displaying a single card. You are tasked with adding two key peices of functionality, as shown on the Figma board.
 
 **Support Multiple Courses:** Render all of the provided courses as shown in the figma, rather than just the first
 

@@ -1,5 +1,5 @@
 # Task 3
-We are designing a new bank account page for a client in the financial services industry. The frontend team has already created a low-fi implementation, which uses mock data. Please update their implementation to use real data coming from the backend!!
+You've been tasked to design a new bank account page for a client in the banking industry. The frontend team has already created a lo-fi implementation, which uses mock data to display the customer's name, their current bank balance and the total pending charges on their account. Please update their implementation to use real data coming from a backend API!
 
 **The name, balance, and total pending charges of the user should all use live data**
 
@@ -25,10 +25,8 @@ cd frontend
 npm install
 npm run dev
 ```
-
-
-
+             
 ## Hints
-Checkout the backend implementation to see what endpoints are available to you. Note the schema, and how it may differ from the mock data you've been given
+Check out the backend implementation to see what endpoints are available to you. Note the schema, and how it may differ from the mock data you've been given
 
 
