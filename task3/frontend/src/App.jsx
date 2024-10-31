@@ -1,10 +1,10 @@
-import './App.css'
 import BankAccount from './BankAccount'
+import './index.css';
 
 function App() {
 
   return (
-    <div>
+    <div className="content">
     <BankAccount/>
     </div>
   )

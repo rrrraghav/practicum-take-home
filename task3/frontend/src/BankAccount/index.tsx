@@ -1,19 +1,26 @@
 import React from "react";
-import {data} from "./data.ts"
-import './index.css'
-
+import { data } from "./data.ts"
+import './index.css';
 
 const BankAccount: React.FC = () => {
 
-    const items = data // 
-    
-return (
-   <div className="account">
-    <text>Bank Account Holder: {items["name"]}</text>
-    <text>Balance: ${items["balance"]}</text>
-    <text>Pending Charges: ${items["pending"]}</text>
-   </div> 
-)
+    const details = data
+
+    return (
+        <div>
+            <div className="accountName"><b>Bank Account Holder:</b> {details["name"]}</div>
+            <div className="accountDetailsWrapper">
+                <div className="bankCard">
+                    <div className="cardTitle">Current Balance</div>
+                    <div className="cardAmount">${details["balance"]}</div>
+                </div>
+                <div className="bankCard">
+                    <div className="cardTitle">Total Pending Charges</div>
+                    <div className="cardAmount">${details["pending"]}</div>
+                </div>
+            </div>
+        </div>
+    )
 }
 
 export default BankAccount
