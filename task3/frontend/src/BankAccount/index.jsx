@@ -1,8 +1,8 @@
 import React from "react";
-import { data } from "./data.ts"
+import { data } from "./data.js"
 import './index.css';
 
-const BankAccount: React.FC = () => {
+const BankAccount = () => {
 
     const details = data
 

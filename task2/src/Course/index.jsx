@@ -1,11 +1,8 @@
 import React from "react"
 import './index.css';
 
-interface CourseProps {
-    name: string
-}
 
-const CourseCard: React.FC<CourseProps> = ({ name }) => {
+const CourseCard = ({ name }) => {
     return (
         <div className="courseWrapper">
             <div className="courseItem">

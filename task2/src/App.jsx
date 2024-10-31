@@ -1,5 +1,5 @@
 import CourseCard from './Course'
-import data from './data.ts'
+import data from './data.js'
 
 function App() {
 
