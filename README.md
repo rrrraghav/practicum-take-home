@@ -1,7 +1,7 @@
 # Khoury Practicum Frontend Assessment
 This take-home is designed to assess your skills as a frontend and web developer. This assessment expects you to have a basic knowledge of technologies like React, JavaScript and HTML/CSS, but is designed to be beginner friendly! Feel free to take advantage of any online resources you usually use to develop. 
 
-Please keep in mind that while this is a take-home assessment, you should be prepared to discuss all of the changes you made, and the thought process behind them during your interview.
+Please keep in mind that while this is a take-home assessment, you should be prepared to discuss all of the changes you made, and the thought process behind them during any future interviews.
 
 There is no time limit on this challenge, but it is designed to take anywhere between 60 and 90 minutes.
 
