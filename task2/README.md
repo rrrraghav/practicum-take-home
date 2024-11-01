@@ -3,9 +3,7 @@ You are designing a new course selection service. Right now we are displaying a 
 
 **1. Support Multiple Courses:** Render all of the provided courses as shown in the figma, rather than just the first
 
-**2. Selection:** Users should be able to select a course by clicking the "Select" button. This should add a border of any color around the selected element to highlight it! 
-
-**Extra Credit:** Additionally, modify your code so that clicking the button again should un-highlight the border around a selected element. Multiple courses may be highlighted at once.
+**2. Selection:** Users should be able to select a course by clicking the "Select" button. This should add a border of any color around the selected element to highlight it! Clicking again should un-highlight the element. Multiple courses can be highlighted at once
 
 ## Running the app
 First, confirm you have installed the latest version of node.
