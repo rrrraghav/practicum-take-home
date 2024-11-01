@@ -1,5 +1,5 @@
 # Khoury Practicum Frontend Assessment
-This take-home is designed to assess your skills as a frontend and web developer. This assessment expects you to have a basic knowledge of technologies like React, JavaScript and HTML/CSS, but is designed to be begineer friendly! Feel free to take advantage of any online resources you usually use to develop. 
+This take-home is designed to assess your skills as a frontend and web developer. This assessment expects you to have a basic knowledge of technologies like React, JavaScript and HTML/CSS, but is designed to be beginer friendly! Feel free to take advantage of any online resources you usually use to develop. 
 
 Please keep in mind that while this is a take-home assessment, you should be prepared to discuss all of the changes you made, and the thought process behind them during your interview.
 
