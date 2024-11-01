@@ -26,3 +26,6 @@ In order to submit, please commit your changes and email a link to your fork to 
 
 ## General Advice
 Your take home can be very successful with imperfect solutions to the provided problems. Do your best, and come in to any interviews with ideas on how to improve your code (and ours as well)!
+
+
+Created by [Nandini Ghosh](https://github.com/nandini-ghosh) and [Cameron Plume](https://github.com/CamPlume1)
