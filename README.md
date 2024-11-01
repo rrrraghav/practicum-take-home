@@ -22,7 +22,7 @@ There is a README within each of the folders in this directory. They have direct
 
 
 ## Submitting
-In order to submit, please commit your changes and email a link to your fork to Dr. Fontenot: m.fontenot@northeastern.edu. Please create a commit for your submission of **each** task
+In order to submit, please commit and push your changes. We will be able to view your submission through Github Classroom!
 
 ## General Advice
 Your take home can be very successful with imperfect solutions to the provided problems. Do your best, and come in to any interviews with ideas on how to improve your code (and ours as well)!
