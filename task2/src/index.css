@@ -28,3 +28,6 @@
   transition: border-color 0.25s;
 }
 
+CourseCard {
+  margin-bottom: 15px;
+}

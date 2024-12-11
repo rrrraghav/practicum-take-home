@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="content">
       <div className='title'>Select A Course:</div>
-      <CourseCard name={data[0]["course-name"]} />
+      {data.map((d, index) => (
+        <CourseCard key={index} name={d["course-name"]} />
+      ))}
     </div>
   )
 }
