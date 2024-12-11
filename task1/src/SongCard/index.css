@@ -1,3 +1,26 @@
 .cardWrapper {
     margin: auto;
+    background-color: white;
+    width: 30%;
+    border-radius: 25px;
+}
+
+.track-info {
+    color: black;
+    margin: 5px;
+}
+
+.title {
+    color: black;
+    font-size: 25px;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+img {
+    margin: 20px;
+}
+
+button {
+    margin-bottom: 50px;
 }
